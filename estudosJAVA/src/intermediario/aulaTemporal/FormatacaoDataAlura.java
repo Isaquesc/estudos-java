@@ -17,6 +17,5 @@ public class FormatacaoDataAlura {
 
         System.out.println(periodo.getDays() + " Dias " + periodo.getMonths() + " Meses para inicio da COPA DO MUNDO 2022 QUATAR");
 
-
     }
 }

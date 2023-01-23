@@ -41,7 +41,7 @@ class ExemploCursos {
 
         listaCursos.add(new Cursos("Python", 45));
         listaCursos.add(new Cursos("JavaScript", 150));
-        listaCursos.add(new Cursos("Java 8 ", 113));
+        listaCursos.add(new Cursos("Java 8 ", 103));
         listaCursos.add(new Cursos("C", 55));
 
 //        ==== COMPARANDO PELO NUMERO DE ALUNOS (COM METODO REFERENCES)
@@ -55,7 +55,7 @@ class ExemploCursos {
 //        ==== FILTRANDO O PRIMEIRO CURSO COM MAIS DE 100 ALUNOS
         Optional<Cursos> cursos1 = listaCursos.stream()
                 .filter(cursos -> cursos.getAlunos() > 100)
-                .findAny();
+                .findFirst();
 
 //        ==== RETORNANDO UM CURSO OU NULL
         Cursos curso = cursos1.orElse(null);

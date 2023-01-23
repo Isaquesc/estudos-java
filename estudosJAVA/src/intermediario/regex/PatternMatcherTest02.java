@@ -20,7 +20,7 @@ public class PatternMatcherTest02 {
         // [] = Range
 
         String regex = "[a-zA-Z]";
-        String texto = "cafeBASE";
+        String texto = "cafeBASE231 313ISAQUE";
 
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(texto);
@@ -32,7 +32,6 @@ public class PatternMatcherTest02 {
         while (matcher.find()){
             System.out.print(matcher.group());
         }
-
 
         System.out.println();
         System.out.println("Numero exadecimal: " + 0x59F86A);
