@@ -5,15 +5,141 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/regex/PatternMatcherTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/estudos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/metodosClasseString/ClasseTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/metodosClasseString/ExemploStringBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudosJAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/estudosJAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/brcode/BrCodeCaixaDeDialogo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/brcode/BrCodeCaixaDeDialogo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/animal/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/animal/Cachorro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/animal/Cachorro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/animal/Cavalo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/animal/Cavalo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/animal/DadosAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/animal/DadosAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/animal/Preguica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/animal/Preguica.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/animal/TestaTodas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/animal/TestaTodas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/exercicios/GenerationJava01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/exercicios/GenerationJava01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/exercicios/GenerationJava02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/exercicios/GenerationJava02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/exercicios/GenerationJava03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/exercicios/GenerationJava03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/exercicios/GenerationJava04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/exercicios/GenerationJava04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploMatriz01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploMatriz01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploMatriz02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploMatriz02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploMatriz03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploMatriz03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploMatriz04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploMatriz04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploVetor01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploVetor01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploVetor02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploVetor02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploVetor03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/ExemploVetor03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/GenerationAtividade01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/GenerationAtividade01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/GenerationAtividade02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/GenerationAtividade02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/GenerationAtividade03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/GenerationAtividade03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/GenerationAtividade04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/matrixVetor/GenerationAtividade04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GenerationPortugol01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GenerationPortugol01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GenerationPortugol02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GenerationPortugol02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GenerationPortugol03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GenerationPortugol03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GenerationPortugol04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GenerationPortugol04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GenerationPortugol05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GenerationPortugol05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GerenationPortugol06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GerenationPortugol06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GerenationPortugol07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GerenationPortugol07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GerenationPortugol08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/pasePortugol/GerenationPortugol08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/primeiroPrograma/PrimeiroPrograma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/primeiroPrograma/PrimeiroPrograma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/segundoPrograma/OperadoresLogicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/segundoPrograma/OperadoresLogicos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/segundoPrograma/SegundoPrograma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/segundoPrograma/SegundoPrograma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/Cachorro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/Cachorro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/Ferrari.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/Ferrari.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/Fusca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/Fusca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/Gato.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/Gato.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/TestaCarroFerrariFusca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/TestaCarroFerrariFusca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/TestaTodos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/interfaces/TestaTodos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIO/alura/LeituraEscrita.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIO/alura/LeituraEscrita.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIO/alura/TesteEscrita.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIO/alura/TesteEscrita.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIO/alura/TesteLeitura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIO/alura/TesteLeitura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/animal/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/animal/Cachorro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/animal/Cachorro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/animal/Imprimir.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/animal/Imprimir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/animal/TestaAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/animal/TestaAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/animal/Tigre.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/animal/Tigre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/produto/dominio/Computador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/produto/dominio/Computador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/produto/dominio/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/produto/dominio/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/produto/dominio/Taxavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/produto/dominio/Taxavel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/produto/dominio/Tomate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/produto/dominio/Tomate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/produto/service/ProdutoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/polimorfismo/produto/service/ProdutoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/ArraysForeach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/ArraysForeach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/ArraysMultidimensionais.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/ArraysMultidimensionais.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/Exercicios.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/Exercicios.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/Funcionarios.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/Funcionarios.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/TestFuncionarios.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/TestFuncionarios.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/TesteCursoEmVideo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/TesteCursoEmVideo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/TipoPrimitivosCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/TipoPrimitivosCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/TiposPrimitivosExercicios.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/TiposPrimitivosExercicios.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/ConvertDateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/ConvertDateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/Formatacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/Formatacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/FormatacaoDataAlura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/FormatacaoDataAlura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/PeriodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/PeriodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/ProximoDiaUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/ProximoDiaUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/TemporalAdjusterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/TemporalAdjusterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/ZoneTimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/aulaTemporal/ZoneTimeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/classeAnonima/MetodoReferencesClassesAnonimasMetodoDefault$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/classeAnonima/MetodoReferencesClassesAnonimasMetodoDefault$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/classeAnonima/MetodoReferencesClassesAnonimasMetodoDefault$ComparadorPorTamanho.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/classeAnonima/MetodoReferencesClassesAnonimasMetodoDefault$ComparadorPorTamanho.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/classeAnonima/MetodoReferencesClassesAnonimasMetodoDefault$ImplimeNaLinha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/classeAnonima/MetodoReferencesClassesAnonimasMetodoDefault$ImplimeNaLinha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/classeAnonima/MetodoReferencesClassesAnonimasMetodoDefault.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/classeAnonima/MetodoReferencesClassesAnonimasMetodoDefault.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/Aula.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/Aula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/ChaveValores.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/ChaveValores.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/InterandoSobreMapa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/InterandoSobreMapa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/QualColecaoUsar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/QualColecaoUsar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestaAlunos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestaAlunos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestaBuscaAlunoNoCurso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestaBuscaAlunoNoCurso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestaCurso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestaCurso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestaCurso2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestaCurso2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestaCursoComAluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestaCursoComAluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestaListaDeAula.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestaListaDeAula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestandoListas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/alura/TestandoListas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/Aula.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/Aula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/Calculadora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/TestaAulas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/TestaAulas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/TestaErro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/TestaErro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/TesteAluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/TesteAluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/TesteUnitario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/TesteUnitario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/TetaCollections.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/TetaCollections.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/gerenation/teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/enumeracaoIntroducao/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/enumeracaoIntroducao/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/enumeracaoIntroducao/ClienteTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/enumeracaoIntroducao/ClienteTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/enumeracaoIntroducao/TipoCliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/enumeracaoIntroducao/TipoCliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/excecoes/CalendarTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/excecoes/CalendarTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/excecoes/DateTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/excecoes/DateTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/excecoes/LocalTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/excecoes/LocalTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/excecoes/RunTimeExceptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/excecoes/RunTimeExceptionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/excercicioMeclarNomes/MesclarNomesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/excercicioMeclarNomes/MesclarNomesTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/regex/PatternMatcherTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/regex/PatternMatcherTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/regex/PatternMatcherTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/regex/PatternMatcherTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/regex/PatternMatcherTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/regex/PatternMatcherTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/resourceBundle/ResouceBundleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/resourceBundle/ResouceBundleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/Cursos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/Cursos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/ExemploCursos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/ExemploCursos.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -22,27 +148,75 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EVHRnaavlk0gYh30P2Hcb1Pldd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../demo" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/isaqu/Documents/Projetinhos/estudos/estudosJAVA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PatternMatcherTest01">
+  <component name="RunManager" selected="Application.ExemploStringBuffer">
+    <configuration name="ClasseTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.metodosClasseString.ClasseTeste" />
+      <module name="estudosJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediario.metodosClasseString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.metodosClasseString.ExemploStringBuffer" />
+      <module name="estudosJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediario.metodosClasseString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MesclarNomesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.excercicioMeclarNomes.MesclarNomesTest" />
+      <module name="estudosJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediario.excercicioMeclarNomes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PatternMatcherTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediario.regex.PatternMatcherTest01" />
       <module name="estudosJAVA" />
@@ -71,8 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PatternMatcherTest01" />
+        <item itemvalue="Application.ExemploStringBuffer" />
+        <item itemvalue="Application.ClasseTeste" />
+        <item itemvalue="Application.MesclarNomesTest" />
         <item itemvalue="Application.PatternMatcherTest02" />
+        <item itemvalue="Application.PatternMatcherTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -92,6 +269,8 @@
       <workItem from="1663128948667" duration="94000" />
       <workItem from="1663353253947" duration="889000" />
       <workItem from="1663356296339" duration="183000" />
+      <workItem from="1675868565761" duration="13000" />
+      <workItem from="1675868587887" duration="3662000" />
     </task>
     <servers />
   </component>

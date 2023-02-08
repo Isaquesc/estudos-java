@@ -1,0 +1,15 @@
+
+- Supplier (Fornecedor)
+  Representa uma função que não recebe nenhum parametro, mas retorna algo.
+
+- Consumer e BiConsumer (Consumidor)
+  Recebe um valor, faz alguma coisa com esse valor, e não retorna nada
+
+- Predicate e BiPredicate  (Comparacao/Teste)
+  Funcão que recebe um valor, e retorna um booleano
+
+- Function e BiFuncion
+  Funcão que recebe um valor e retorna outro valor (do mesmo tipo ou diferente)
+
+- UnaryOperator BinaryOperator
+  Recebe um valor e retorna outro valor do mesmo tipo
