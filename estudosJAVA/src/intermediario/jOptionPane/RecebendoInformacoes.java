@@ -1,4 +1,4 @@
-package intermediario.JOptionPane;
+package intermediario.jOptionPane;
 
 import javax.swing.*;
 

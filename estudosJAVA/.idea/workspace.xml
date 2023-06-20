@@ -5,12 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/JOptionPane/ExemploJOptionPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediario/JOptionPane/RecebendoInformacoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediario/JOptionPane/RecebendoInformacoesDois.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediario/JOptionPane/pensive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iniciante/gererationBrasil/exercicios/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iniciante/tiposPrimitivos/TesteTextoNegrito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/serialVersionUID/Desserializador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/serialVersionUID/Serializador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/serialVersionUID/domain/Clube.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/metodosClasseString/ExemploStringBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/metodosClasseString/ExemploStringBuffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/META-INF/estudosJAVA.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/exercicios/GenerationJava03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/exercicios/GenerationJava03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/exercicios/GenerationJava04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/exercicios/GenerationJava04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/gererationBrasil/lacos/GenerationLacos06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/TiposPrimitivosExercicios.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/tiposPrimitivos/TiposPrimitivosExercicios.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/JOptionPane/RecebendoInformacoesDois.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/JOptionPane/RecebendoInformacoesDois.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/excecoes/CalendarTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/excecoes/CalendarTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/ExemploCursos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/ExemploCursos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iniciante/gererationBrasil/exercicios/GenerationJava03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iniciante/gererationBrasil/exercicios/GenerationJava03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iniciante/gererationBrasil/exercicios/GenerationJava04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iniciante/gererationBrasil/exercicios/GenerationJava04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iniciante/gererationBrasil/lacos/GenerationLacos06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iniciante/gererationBrasil/lacos/GenerationLacos06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iniciante/tiposPrimitivos/TiposPrimitivosExercicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iniciante/tiposPrimitivos/TiposPrimitivosExercicios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/JOptionPane/ExemploJOptionPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/jOptionPane/ExemploJOptionPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/JOptionPane/RecebendoInformacoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/jOptionPane/RecebendoInformacoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/JOptionPane/RecebendoInformacoesDois.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/jOptionPane/RecebendoInformacoesDois.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/JOptionPane/pensive.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/jOptionPane/pensive.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/excecoes/CalendarTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/excecoes/CalendarTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/metodosClasseString/ExemploStringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/metodosClasseString/ExemploStringBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/stream/StreamFilterMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/stream/StreamFilterMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +64,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/isaqu/Documents/Projetinhos/estudos/estudosJAVA",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/isaqu/Documents/Projetinhos/estudos/estudosJAVA/src/intermediario/serialVersionUID",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +77,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\isaqu\Documents\Projetinhos\estudos\estudosJAVA\src\intermediario\serialVersionUID" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\isaqu\Documents\Projetinhos\estudos\estudosJAVA\src\intermediario\JOptionPane" />
     </key>
@@ -64,13 +87,13 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RecebendoInformacoesDois">
-    <configuration name="ClasseTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.metodosClasseString.ClasseTeste" />
+  <component name="RunManager" selected="Application.CalendarTest01">
+    <configuration name="CalendarTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.excecoes.CalendarTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.metodosClasseString.*" />
+          <option name="PATTERN" value="intermediario.excecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploJOptionPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.JOptionPane.ExemploJOptionPane" />
+    <configuration name="GenerationLacos06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.gererationBrasil.lacos.GenerationLacos06" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.JOptionPane.*" />
+          <option name="PATTERN" value="iniciante.gererationBrasil.lacos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.metodosClasseString.ExemploStringBuffer" />
+    <configuration name="TesteJosue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.tiposPrimitivos.TesteJosue" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.metodosClasseString.*" />
+          <option name="PATTERN" value="iniciante.tiposPrimitivos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecebendoInformacoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.JOptionPane.RecebendoInformacoes" />
+    <configuration name="TesteTextoNegrito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.tiposPrimitivos.TesteTextoNegrito" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.JOptionPane.*" />
+          <option name="PATTERN" value="iniciante.tiposPrimitivos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecebendoInformacoesDois" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.JOptionPane.RecebendoInformacoesDois" />
+    <configuration name="iniciante.gererationBrasil.exercicios.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.gererationBrasil.exercicios.Teste" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.JOptionPane.*" />
+          <option name="PATTERN" value="iniciante.gererationBrasil.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RecebendoInformacoesDois" />
-        <item itemvalue="Application.RecebendoInformacoes" />
-        <item itemvalue="Application.ExemploJOptionPane" />
-        <item itemvalue="Application.ExemploStringBuffer" />
-        <item itemvalue="Application.ClasseTeste" />
+        <item itemvalue="Application.CalendarTest01" />
+        <item itemvalue="Application.TesteTextoNegrito" />
+        <item itemvalue="Application.TesteJosue" />
+        <item itemvalue="Application.GenerationLacos06" />
+        <item itemvalue="Application.iniciante.gererationBrasil.exercicios.Teste" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +180,22 @@
       <workItem from="1663353253947" duration="889000" />
       <workItem from="1663356296339" duration="183000" />
       <workItem from="1675868565761" duration="13000" />
-      <workItem from="1675868587887" duration="10852000" />
+      <workItem from="1675868587887" duration="13834000" />
+      <workItem from="1675969562115" duration="1805000" />
+      <workItem from="1675982859602" duration="3269000" />
+      <workItem from="1676048710280" duration="7327000" />
+      <workItem from="1676218675836" duration="47000" />
+      <workItem from="1676308269082" duration="812000" />
+      <workItem from="1676319227252" duration="3163000" />
+      <workItem from="1676560949347" duration="5270000" />
+      <workItem from="1676574791177" duration="203000" />
+      <workItem from="1676655280638" duration="2834000" />
+      <workItem from="1676675794464" duration="666000" />
+      <workItem from="1677538525649" duration="1307000" />
+      <workItem from="1678318351008" duration="3220000" />
+      <workItem from="1687203653189" duration="3521000" />
+      <workItem from="1687214167812" duration="105000" />
+      <workItem from="1687224764393" duration="502000" />
     </task>
     <servers />
   </component>

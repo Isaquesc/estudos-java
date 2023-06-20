@@ -1,7 +1,6 @@
-package intermediario.JOptionPane;
+package intermediario.jOptionPane;
 
 import javax.swing.*;
-import java.util.Objects;
 
 public class ExemploJOptionPane {
     public static void main(String[] args) throws Exception {

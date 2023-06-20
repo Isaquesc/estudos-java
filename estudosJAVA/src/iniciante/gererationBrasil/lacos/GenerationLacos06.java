@@ -23,7 +23,7 @@ public class GenerationLacos06 {
 		}while(numero != 0);
 		
 		media = soma/quantidade;
-		System.out.println("A media entre os numero digitados � de: " + media);
+		System.out.println("A media entre os numero digitados é de: " + media);
 		
 		
 	}

@@ -88,4 +88,5 @@ class ExemploCursos {
                         Cursos::getNome,
                         Cursos::getAlunos));
 //                .forEach((nome, aluno) -> System.out.println("[CURSO: " + nome + " | ALUNOS: " + aluno + "]"));
+
     }}

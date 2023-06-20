@@ -14,5 +14,9 @@ public class TiposPrimitivosExercicios {
 
         System.out.println("Eu " + dados[0] + ", morando no endereço " + dados[1] +
                 "\n, confirmo que recebi o salario de R$" + salario + ", em " + formatador.format(data));
+
+
+
+        ;
     }
 }

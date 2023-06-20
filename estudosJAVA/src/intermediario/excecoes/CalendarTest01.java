@@ -17,8 +17,6 @@ public class CalendarTest01 {
         calendar.getTimeZone().setID("America/Rio_de_Janeiro");
 
         System.out.println(calendar);
-;
-
 
     }
 }

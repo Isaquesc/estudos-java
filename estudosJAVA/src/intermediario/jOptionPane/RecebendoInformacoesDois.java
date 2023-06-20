@@ -1,6 +1,4 @@
-package intermediario.JOptionPane;
-
-import javax.swing.*;
+package intermediario.jOptionPane;
 
 import static javax.swing.JOptionPane.*;
 
@@ -27,5 +25,7 @@ public class RecebendoInformacoesDois {
                 null);
 
         System.out.println("Nome: " + nome);
+
     }
+
 }
