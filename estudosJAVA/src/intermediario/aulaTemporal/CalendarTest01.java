@@ -1,4 +1,4 @@
-package intermediario.excecoes;
+package intermediario.aulaTemporal;
 
 
 import java.util.Calendar;
