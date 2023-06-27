@@ -2,28 +2,25 @@ package intermediario.excecoes;
 
 public class RunTimeExceptionTest {
     public static void main(String[] args) {
-        System.out.println("Ini do main");
-        metodo1();
+        System.out.println("Inicio do main");
+
+        try {
+            metodo1(1, 0);
+        } catch (RuntimeException e) {
+            e.printStackTrace();
+        }
+
         System.out.println("Fim do main");
     }
 
-    private static void metodo1() {
-        System.out.println("Ini do metodo1");
-        try {
-            metodo2();
-        } catch (ArithmeticException ex) {
-            ex.printStackTrace();
-            System.out.println("Não é possivel dividir um valor por 0");
-        }
-        System.out.println("Fim do metodo1");
-    }
+    private static int metodo1(int a, int b) throws RuntimeException{
+        System.out.println("Inicio do metodo 1");
 
-    private static void metodo2() {
-        System.out.println("Ini do metodo2");
-        for (int i = 1; i <= 5; i++) {
-            System.out.println(i);
-            int a = i / 0;
+        if (b == 0) {
+            throw new RuntimeException("Argumento ilegal, nao pode ser 0");
         }
-        System.out.println("Fim do metodo2");
+
+        System.out.println("Fim do metodo 1");
+        return a / b;
     }
 }

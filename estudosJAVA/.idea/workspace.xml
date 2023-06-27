@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/excecoes/ExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/estudos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/estudos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/JOptionPane/ExemploJOptionPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/JOptionPane/ExemploJOptionPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/JOptionPane/RecebendoInformacoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/JOptionPane/RecebendoInformacoes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/JOptionPane/RecebendoInformacoesDois.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/JOptionPane/RecebendoInformacoesDois.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/excecoes/CalendarTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/aulaTemporal/CalendarTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/excecoes/DateTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/aulaTemporal/DateTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/excecoes/LocalTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/aulaTemporal/LocalTest01.java" afterDir="false" />
-    </list>
+    <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +62,7 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionTest">
+  <component name="RunManager" selected="Application.RunTimeExceptionTest">
     <configuration name="CalendarTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediario.aulaTemporal.CalendarTest01" />
       <module name="estudosJAVA" />
@@ -113,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteJosue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.tiposPrimitivos.TesteJosue" />
+    <configuration name="RunTimeExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.excecoes.RunTimeExceptionTest" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iniciante.tiposPrimitivos.*" />
+          <option name="PATTERN" value="intermediario.excecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunTimeExceptionTest" />
         <item itemvalue="Application.ExceptionTest" />
         <item itemvalue="Application.DateTest01" />
         <item itemvalue="Application.CalendarTest01" />
         <item itemvalue="Application.TesteTextoNegrito" />
-        <item itemvalue="Application.TesteJosue" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +173,7 @@
       <workItem from="1687224764393" duration="502000" />
       <workItem from="1687747146080" duration="431000" />
       <workItem from="1687747591910" duration="1912000" />
+      <workItem from="1687807680810" duration="65000" />
     </task>
     <servers />
   </component>
