@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="" />
+    <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/intermediario/excecoes/ExceptionTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/excecoes/TryWithResourcesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/excecoes/domain/LeitorDois.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/excecoes/domain/LeitorUm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,10 +65,11 @@
       <recent name="C:\Users\isaqu\Documents\Projetinhos\estudos\estudosJAVA\src\intermediario\JOptionPane" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="intermediario.excecoes" />
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RunTimeExceptionTest">
+  <component name="RunManager" selected="Application.TryWithResourcesTest01">
     <configuration name="CalendarTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediario.aulaTemporal.CalendarTest01" />
       <module name="estudosJAVA" />
@@ -115,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteTextoNegrito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.tiposPrimitivos.TesteTextoNegrito" />
+    <configuration name="TryWithResourcesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.excecoes.TryWithResourcesTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iniciante.tiposPrimitivos.*" />
+          <option name="PATTERN" value="intermediario.excecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryWithResourcesTest01" />
         <item itemvalue="Application.RunTimeExceptionTest" />
         <item itemvalue="Application.ExceptionTest" />
         <item itemvalue="Application.DateTest01" />
         <item itemvalue="Application.CalendarTest01" />
-        <item itemvalue="Application.TesteTextoNegrito" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +181,10 @@
       <workItem from="1687747146080" duration="431000" />
       <workItem from="1687747591910" duration="1912000" />
       <workItem from="1687807680810" duration="65000" />
+      <workItem from="1687904707088" duration="1979000" />
+      <workItem from="1687917399195" duration="728000" />
+      <workItem from="1687971914510" duration="1253000" />
+      <workItem from="1687979021441" duration="1047000" />
     </task>
     <servers />
   </component>
