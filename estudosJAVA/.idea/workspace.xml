@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/BufferedWriterTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/BufferedReaderTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/BufferedWriterTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/BufferedWriterTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +188,9 @@
       <workItem from="1688070024113" duration="143000" />
       <workItem from="1688083982166" duration="2110000" />
       <workItem from="1694618603561" duration="2138000" />
-      <workItem from="1694667598722" duration="1107000" />
+      <workItem from="1694667598722" duration="1482000" />
+      <workItem from="1694669172937" duration="165000" />
+      <workItem from="1694669354991" duration="649000" />
     </task>
     <servers />
   </component>
