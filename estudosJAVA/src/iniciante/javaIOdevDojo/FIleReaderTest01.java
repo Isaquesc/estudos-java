@@ -1,18 +1,19 @@
 package iniciante.javaIOdevDojo;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 
-public class FIleWriterTest01 {
+public class FIleReaderTest01 {
     public static void main(String[] args) {
         File file = new File("C:\\Users\\iscosta2\\Documents\\ProjetosPessoais\\estudosJAVA\\estudosJAVA\\arquivo\\file.txt");
-        try(FileWriter fileWriter = new FileWriter(file)){
-            fileWriter.write("Estou no modo foco total (academia, estudos, noiva, casa)");
-            fileWriter.flush();
+        try (FileReader fileReader = new FileReader(file)) {
+
+            int leitura;
+
+            while ((leitura = fileReader.read()) != -1 )
+                System.out.print((char)leitura);
+
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-
     }
 }
