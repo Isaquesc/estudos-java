@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/BufferedReaderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/FileTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/BufferedWriterTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/BufferedWriterTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BufferedWriterTest01">
+  <component name="RunManager" selected="Application.FileTest02">
     <configuration name="BufferedWriterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.BufferedWriterTest01" />
       <module name="estudosJAVA" />
@@ -121,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SobrescritaExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.excecoes.SobrescritaExceptionTest" />
+    <configuration name="FileTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.FileTest02" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.excecoes.*" />
+          <option name="PATTERN" value="iniciante.javaIOdevDojo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileTest02" />
         <item itemvalue="Application.BufferedWriterTest01" />
         <item itemvalue="Application.FIleReaderTest01" />
         <item itemvalue="Application.FIleWriterTest01" />
         <item itemvalue="Application.FileTest01" />
-        <item itemvalue="Application.SobrescritaExceptionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +189,8 @@
       <workItem from="1694618603561" duration="2138000" />
       <workItem from="1694667598722" duration="1482000" />
       <workItem from="1694669172937" duration="165000" />
-      <workItem from="1694669354991" duration="649000" />
+      <workItem from="1694669354991" duration="2029000" />
+      <workItem from="1694859039098" duration="906000" />
     </task>
     <servers />
   </component>
