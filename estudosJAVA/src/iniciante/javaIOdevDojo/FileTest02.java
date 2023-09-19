@@ -22,7 +22,8 @@ public class FileTest02 {
         System.out.println("arquivo.txt renomeado? - " + b);
 
         //renomeando uma pasta
-        boolean b1 = pasta.renameTo(new File("C:\\Users\\iscosta2\\Documents\\ProjetosPessoais\\estudosJAVA\\estudosJAVA\\arquivo\\pastaRenomeada"));
-        System.out.println("pasta renomeada? - " + b1);
+        boolean pastaRenomeada = pasta.renameTo(new File("C:\\Users\\iscosta2\\Documents\\ProjetosPessoais\\estudosJAVA\\estudosJAVA\\arquivo\\pastaRenomeada"));
+        System.out.println("pasta renomeada? - " + pastaRenomeada);
     }
+
 }
