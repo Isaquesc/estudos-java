@@ -29,7 +29,5 @@ public class PathTest02 {
         Path source = filePath;
         Path target = Paths.get(source.getParent().toString(), "arquivo_renamed.txt");
         Files.copy(source,target, StandardCopyOption.REPLACE_EXISTING);
-
-    
     }
 }

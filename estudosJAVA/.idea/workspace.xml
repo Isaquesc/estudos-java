@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/PathTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/NormalizeTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arquivo/arquivo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arquivo/file.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arquivo/pasta/arquivoRenomeado.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arquivo/pastaRenomeada/arquivoRenomeado.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIOdevDojo/PathTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIOdevDojo/PathTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/PathTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/PathTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIOdevDojo/PathTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIOdevDojo/PathTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iniciante/javaIO/alura/TesteEscrita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iniciante/javaIO/alura/TesteEscrita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/PathTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/PathTest02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +70,7 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PathTest02">
+  <component name="RunManager" selected="Application.NormalizeTest01">
     <configuration name="BufferedWriterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.BufferedWriterTest01" />
       <module name="estudosJAVA" />
@@ -87,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FIleReaderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.FIleReaderTest01" />
+    <configuration name="FileTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.FileTest02" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.FileTest02" />
+    <configuration name="NormalizeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.NormalizeTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NormalizeTest01" />
         <item itemvalue="Application.PathTest02" />
         <item itemvalue="Application.PathTest01" />
         <item itemvalue="Application.FileTest02" />
         <item itemvalue="Application.BufferedWriterTest01" />
-        <item itemvalue="Application.FIleReaderTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +195,7 @@
       <workItem from="1694669354991" duration="2029000" />
       <workItem from="1694859039098" duration="2400000" />
       <workItem from="1695091291142" duration="3113000" />
-      <workItem from="1695226109884" duration="5662000" />
+      <workItem from="1695226109884" duration="6923000" />
     </task>
     <servers />
   </component>
