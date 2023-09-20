@@ -1,2 +1,0 @@
-Estou no modo foco total (academia, estudos, noiva, casa)
-pulando linha com bufferedWriter
