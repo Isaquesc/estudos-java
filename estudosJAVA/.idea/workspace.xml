@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/BasicFileAttributesTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/RelativizeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/RelativizeTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +68,9 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RelativizeTest01">
-    <configuration name="NormalizeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.NormalizeTest01" />
+  <component name="RunManager" selected="Application.BasicFileAttributesTest01">
+    <configuration name="BasicFileAttributesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.BasicFileAttributesTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.PathTest01" />
+    <configuration name="NormalizeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.NormalizeTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicFileAttributesTest01" />
         <item itemvalue="Application.RelativizeTest01" />
         <item itemvalue="Application.PathTest03" />
         <item itemvalue="Application.NormalizeTest01" />
         <item itemvalue="Application.PathTest02" />
-        <item itemvalue="Application.PathTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +195,7 @@
       <workItem from="1695091291142" duration="3113000" />
       <workItem from="1695226109884" duration="13528000" />
       <workItem from="1697860283566" duration="17000" />
-      <workItem from="1697860340562" duration="1462000" />
+      <workItem from="1697860340562" duration="2928000" />
     </task>
     <servers />
   </component>
