@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/DosFileAtrributesTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIOdevDojo/BasicFileAttributesTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIOdevDojo/BasicFileAttributesTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/BasicFileAttributesTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/BasicFileAttributesTest02.java" afterDir="false" />
-    </list>
+    <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,6 +200,7 @@
       <workItem from="1698323090545" duration="242000" />
       <workItem from="1698323344158" duration="5476000" />
       <workItem from="1698342066658" duration="283000" />
+      <workItem from="1698342364061" duration="778000" />
     </task>
     <servers />
   </component>
