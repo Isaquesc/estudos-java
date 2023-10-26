@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/DirectoryStreamTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/SimpleFileVisitorTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,9 +68,9 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DirectoryStreamTest01">
-    <configuration name="BasicFileAttributesTest02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.BasicFileAttributesTest02" />
+  <component name="RunManager" selected="Application.SimpleFileVisitorTest01 (4)">
+    <configuration name="SimpleFileVisitorTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.SimpleFileVisitorTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicFileAttributesTest02 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.BasicFileAttributesTest02" />
+    <configuration name="SimpleFileVisitorTest01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.SimpleFileVisitorTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicFileAttributesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.BasicFileAttributesTest02" />
+    <configuration name="SimpleFileVisitorTest01 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.SimpleFileVisitorTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DirectoryStreamTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.DirectoryStreamTest01" />
+    <configuration name="SimpleFileVisitorTest01 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.SimpleFileVisitorTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DosFileAtrributesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.DosFileAtrributesTest01" />
+    <configuration name="SimpleFileVisitorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.SimpleFileVisitorTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DirectoryStreamTest01" />
-        <item itemvalue="Application.DosFileAtrributesTest01" />
-        <item itemvalue="Application.BasicFileAttributesTest02" />
-        <item itemvalue="Application.BasicFileAttributesTest02 (2)" />
-        <item itemvalue="Application.BasicFileAttributesTest02 (1)" />
+        <item itemvalue="Application.SimpleFileVisitorTest01 (4)" />
+        <item itemvalue="Application.SimpleFileVisitorTest01 (3)" />
+        <item itemvalue="Application.SimpleFileVisitorTest01 (2)" />
+        <item itemvalue="Application.SimpleFileVisitorTest01 (1)" />
+        <item itemvalue="Application.SimpleFileVisitorTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +203,7 @@
       <workItem from="1698323090545" duration="242000" />
       <workItem from="1698323344158" duration="5476000" />
       <workItem from="1698342066658" duration="283000" />
-      <workItem from="1698342364061" duration="1555000" />
+      <workItem from="1698342364061" duration="3153000" />
     </task>
     <servers />
   </component>
