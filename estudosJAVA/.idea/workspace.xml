@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/PathMatcherTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/serialVersionUID/SerializacaoTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/serialVersionUID/Turma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/serialVersionUID/domain/Aluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIOdevDojo/ListAllFiles02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIOdevDojo/ListAllFiles02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIOdevDojo/SimpleFileVisitorTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIOdevDojo/SimpleFileVisitorTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/SimpleFileVisitorTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iniciante/javaIOdevDojo/SimpleFileVisitorTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/serialVersionUID/Desserializador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/serialVersionUID/Desserializador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/serialVersionUID/Serializador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/serialVersionUID/Serializador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/serialVersionUID/Desserializador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/serialVersionUID/Desserializador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/serialVersionUID/Serializador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/serialVersionUID/Serializador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +34,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2EVHRnaavlk0gYh30P2Hcb1Pldd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,17 +47,22 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Desserializador.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SerializacaoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Serializador.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/iscosta2/Documents/ProjetosPessoais/estudosJAVA/estudosJAVA/src/iniciante/javaIOdevDojo&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -59,6 +71,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="intermediario.serialVersionUID" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\iscosta2\Documents\ProjetosPessoais\estudosJAVA\estudosJAVA\src\iniciante\javaIOdevDojo" />
       <recent name="C:\Users\isaqu\Documents\Projetinhos\estudos\estudosJAVA\src\intermediario\serialVersionUID" />
@@ -72,7 +87,20 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PathMatcherTest01">
+  <component name="RunManager" selected="Application.SerializacaoTest01">
+    <configuration name="Desserializador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.serialVersionUID.Desserializador" />
+      <module name="estudosJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediario.serialVersionUID.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PathMatcherTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.PathMatcherTest01" />
       <module name="estudosJAVA" />
@@ -86,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFileVisitorTest02 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.SimpleFileVisitorTest02" />
+    <configuration name="SerializacaoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.serialVersionUID.SerializacaoTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iniciante.javaIOdevDojo.*" />
+          <option name="PATTERN" value="intermediario.serialVersionUID.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,25 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFileVisitorTest02 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.SimpleFileVisitorTest02" />
+    <configuration name="Serializador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.serialVersionUID.Serializador" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iniciante.javaIOdevDojo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleFileVisitorTest02 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iniciante.javaIOdevDojo.SimpleFileVisitorTest02" />
-      <module name="estudosJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="iniciante.javaIOdevDojo.*" />
+          <option name="PATTERN" value="intermediario.serialVersionUID.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,13 +155,20 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SerializacaoTest01" />
+        <item itemvalue="Application.Desserializador" />
+        <item itemvalue="Application.Serializador" />
         <item itemvalue="Application.PathMatcherTest01" />
         <item itemvalue="Application.SimpleFileVisitorTest02" />
-        <item itemvalue="Application.SimpleFileVisitorTest02 (5)" />
-        <item itemvalue="Application.SimpleFileVisitorTest02 (4)" />
-        <item itemvalue="Application.SimpleFileVisitorTest02 (3)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-3183f394aec4-f0552fc0" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -209,6 +231,9 @@
       <workItem from="1698342066658" duration="283000" />
       <workItem from="1698342364061" duration="7011000" />
       <workItem from="1698436307355" duration="1571000" />
+      <workItem from="1704329704134" duration="2462000" />
+      <workItem from="1704997046469" duration="4242000" />
+      <workItem from="1705008111035" duration="2560000" />
     </task>
     <servers />
   </component>

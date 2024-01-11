@@ -9,7 +9,7 @@ public class Desserializador {
 
     public static void main(String[] args) throws Exception {
 
-        FileInputStream fileInputStream = new FileInputStream("/tmp/saopaulo.ser");
+        FileInputStream fileInputStream = new FileInputStream("pasta/saopaulo.ser");
         ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
         Clube saoPaulo = (Clube) objectInputStream.readObject();
 

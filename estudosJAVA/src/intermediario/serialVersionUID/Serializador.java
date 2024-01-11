@@ -16,7 +16,7 @@ public class Serializador {
         saoPaulo.setNascimento(LocalDate.of(1930, Month.JANUARY, 27));
         saoPaulo.setHino("Blablabla");
 
-        FileOutputStream fileOutputStream = new FileOutputStream("/tmp/saopaulo.ser");
+        FileOutputStream fileOutputStream = new FileOutputStream("pasta/saopaulo.ser");
         ObjectOutputStream objectOutputStream = new ObjectOutputStream(fileOutputStream);
         objectOutputStream.writeObject(saoPaulo);
         objectOutputStream.close();
