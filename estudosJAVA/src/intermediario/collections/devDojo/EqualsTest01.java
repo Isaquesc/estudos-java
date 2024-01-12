@@ -7,6 +7,6 @@ public class EqualsTest01 {
 
         SmartPhone s1 = new SmartPhone("1AQ63W79", "Apple");
         SmartPhone s2 = new SmartPhone("1AQ63W79", "Apple");
-        System.out.println(s1.getSerialNumber().equals(s2.getSerialNumber()));
+        System.out.println(s1.equals(s2));
     }
 }
