@@ -30,6 +30,11 @@ public class SmartPhone {
 
     }
 
+    @Override
+    public int hashCode() {
+        return this.serialNumber == null ? 0 : this.serialNumber.hashCode();
+    }
+
     public String getSerialNumber() {
         return serialNumber;
     }
