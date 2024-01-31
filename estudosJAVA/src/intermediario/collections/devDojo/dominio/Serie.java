@@ -8,6 +8,8 @@ public class Serie implements Comparable<Serie> {
     private String nome;
     private int temporada;
 
+    private int nota;
+
     public Serie(Long id, String nome, int temporada) {
         Objects.requireNonNull(id, "id não pode ser null");
         Objects.requireNonNull(nome, "nome não pode ser null");
@@ -15,6 +17,11 @@ public class Serie implements Comparable<Serie> {
         this.id = id;
         this.nome = nome;
         this.temporada = temporada;
+    }
+
+    public Serie(Long id, String nome, int temporada, int nota) {
+        this(id, nome, temporada);
+        this.nota = nota;
     }
 
     @Override
@@ -37,6 +44,14 @@ public class Serie implements Comparable<Serie> {
     @Override
     public int hashCode() {
         return Objects.hash(id, nome, temporada);
+    }
+
+    public int getNota() {
+        return nota;
+    }
+
+    public void setNota(int nota) {
+        this.nota = nota;
     }
 
     public Long getId() {
