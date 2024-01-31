@@ -18,7 +18,16 @@ public class InteratorTest01 {
         series.add(new Serie(2L, "Grey's Anatomy", 4, 4));
         series.add(new Serie(5L, "Grey's Anatomy", 5, 0));
 
-        series.removeIf(serie -> serie.getNota() == 0);
+        Iterator<Serie> serieIterator = series.iterator();
+
+        while (serieIterator.hasNext()){
+            if (serieIterator.next().getNota() == 0)
+                serieIterator.remove();
+        }
+
+//        NOVO MODO (JAVA 8)
+//        series.removeIf(serie -> serie.getNota() == 0);
+
         System.out.println(series);
     }
 }
