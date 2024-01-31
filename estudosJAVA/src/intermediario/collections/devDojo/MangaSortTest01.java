@@ -25,9 +25,10 @@ public class MangaSortTest01 {
         series.add(new Serie(2L, "Grey's Anatomy", 4));
         series.add(new Serie(5L, "Grey's Anatomy", 5));
 
-//        Collections.sort(series, new SerieSorteByID());
+        Collections.sort(series);
         series.sort(new SerieSorteByID());
-        System.out.println(series);
+//        System.out.println(series);
+        System.out.println(Collections.binarySearch(series, new Serie(1L, "Grey's Anatomy", 2), new SerieSorteByID()));
 
     }
 }
