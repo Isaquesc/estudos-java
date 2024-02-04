@@ -14,7 +14,7 @@ class SerieSorteByID implements Comparator<Serie> {
     }
 }
 
-public class MangaSortTest01 {
+public class SerieSortTest01 {
     public static void main(String[] args) {
 
         List<Serie> series = new ArrayList<>(6);
