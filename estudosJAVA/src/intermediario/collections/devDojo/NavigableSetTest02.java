@@ -36,6 +36,19 @@ public class NavigableSetTest02 {
         System.out.println("higher: " + series.higher(theWalkingDead).getId());
         System.out.println("ceiling: " + series.ceiling(theWalkingDead).getId());
 
+        System.out.println("");
+
+//        Removendo primeiro elemento da lista
+        System.out.println("tamanho: " + series.size());
+        System.out.print("tamanho: " + series.pollFirst());
+        System.out.println("tamanho: " + series.size());
+
+        System.out.println("");
+
+//        Removendo ultimo elemento da lista
+        System.out.println("tamanho: " + series.size());
+        System.out.print("tamanho: " + series.pollLast());
+        System.out.println("tamanho: " + series.size());
 
     }
 }
