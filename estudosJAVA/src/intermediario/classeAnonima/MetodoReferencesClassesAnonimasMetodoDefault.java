@@ -46,7 +46,7 @@ public class MetodoReferencesClassesAnonimasMetodoDefault {
 
     }
 
-    static class ImplimeNaLinha implements Consumer<String> {
+    static class implimeNaLinha implements Consumer<String> {
         @Override
         public void accept(String s) {
             System.out.println(s);
