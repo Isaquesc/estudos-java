@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/intermediario/collections/devDojo/NavigableSetTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/classeAnonima/MetodoReferencesClassesAnonimasMetodoDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/classeAnonima/MetodoReferencesClassesAnonimasMetodoDefault.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/intermediario/collections/devDojo/NavigableSetTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/collections/devDojo/NavigableSetTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "Application.ListTest01.executor": "Run",
     "Application.MangaSortTest01.executor": "Run",
     "Application.NavigableSetTest01.executor": "Run",
+    "Application.NavigableSetTest02.executor": "Run",
     "Application.SerializacaoTest01.executor": "Run",
     "Application.Serializador.executor": "Run",
     "Application.SetTest01.executor": "Run",
@@ -94,7 +95,7 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NavigableSetTest01">
+  <component name="RunManager" selected="Application.NavigableSetTest02">
     <configuration name="InteratorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediario.collections.devDojo.InteratorTest01" />
       <module name="estudosJAVA" />
@@ -134,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerieSortTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.collections.devDojo.SerieSortTest01" />
+    <configuration name="NavigableSetTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.collections.devDojo.NavigableSetTest02" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -162,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NavigableSetTest02" />
         <item itemvalue="Application.NavigableSetTest01" />
         <item itemvalue="Application.SetTest01" />
         <item itemvalue="Application.InteratorTest01" />
         <item itemvalue="Application.ListArrayConversaoTest01" />
-        <item itemvalue="Application.SerieSortTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +250,7 @@
       <workItem from="1706468201554" duration="3794000" />
       <workItem from="1706581209670" duration="1234000" />
       <workItem from="1706727778065" duration="11570000" />
-      <workItem from="1707066473183" duration="6699000" />
+      <workItem from="1707066473183" duration="7667000" />
     </task>
     <servers />
   </component>
