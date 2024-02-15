@@ -3,7 +3,9 @@ package intermediario.collections.devDojo;
 import intermediario.collections.devDojo.dominio.Consumidor;
 import intermediario.collections.devDojo.dominio.Serie;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class MapTest02 {
@@ -20,12 +22,15 @@ public class MapTest02 {
         Serie serie6 = new Serie(7L, "FBI", 5);
         Serie serie7 = new Serie(6L, "Jack Ryan", 6);
 
-        Map<Consumidor, Serie> consumidorSerieMap = new HashMap<>();
+        Map<Consumidor, List<Serie>> consumidorSerieMap = new HashMap<>();
 
-        consumidorSerieMap.put(c1, serie2);
-        consumidorSerieMap.put(c2, serie1);
+        consumidorSerieMap.put(c1, List.of(serie1, serie2,serie3));
+        consumidorSerieMap.put(c2, List.of(serie4, serie5,serie6));
 
-        consumidorSerieMap.entrySet().forEach( entry -> System.out.println(entry.getKey().getNome() + " - " + entry.getValue().getNome()));
+        for(Map.Entry<Consumidor, List<Serie>> consumidorListEntry : consumidorSerieMap.entrySet()){
+            System.out.println(consumidorListEntry.getKey().getNome());
+            consumidorListEntry.getValue().forEach(c -> System.out.println(" - " + c.getNome()));
+        }
 
     }
 }
