@@ -2,8 +2,6 @@ package intermediario.collections.devDojo;
 
 import intermediario.collections.devDojo.dominio.Serie;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.NavigableSet;
 import java.util.TreeSet;
 
@@ -31,10 +29,10 @@ public class NavigableSetTest02 {
 
         Serie theWalkingDead = new Serie(6L, "The Walking Dead", 2);
 
-        System.out.println("lower: " + series.lower(theWalkingDead).getId());
-        System.out.println("floor: " + series.floor(theWalkingDead).getId());
-        System.out.println("higher: " + series.higher(theWalkingDead).getId());
-        System.out.println("ceiling: " + series.ceiling(theWalkingDead).getId());
+        System.out.println("lower: " + series.lower(theWalkingDead)); //menor
+        System.out.println("floor: " + series.floor(theWalkingDead)); //menor ou igual
+        System.out.println("higher: " + series.higher(theWalkingDead)); // maior
+        System.out.println("ceiling: " + series.ceiling(theWalkingDead)); // maior ou igual
 
         System.out.println("");
 

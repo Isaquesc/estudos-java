@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/intermediario/collections/devDojo/MapTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/devDojo/NavigableSetTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/devDojo/NavigableSetTest02.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/intermediario/collections/devDojo/NavigableSetTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/collections/devDojo/NavigableSetTest02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ClasseTesteHelbe.executor": "Run",
     "Application.Desserializador.executor": "Run",
     "Application.EqualsTest01.executor": "Debug",
     "Application.InteratorTest01.executor": "Run",
@@ -49,6 +53,7 @@
     "Application.ListSortTeste01.executor": "Run",
     "Application.ListTest01.executor": "Run",
     "Application.MangaSortTest01.executor": "Run",
+    "Application.MapTest01.executor": "Run",
     "Application.NavigableSetTest01.executor": "Run",
     "Application.NavigableSetTest02.executor": "Run",
     "Application.SerializacaoTest01.executor": "Run",
@@ -93,13 +98,13 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NavigableSetTest02">
-    <configuration name="InteratorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.collections.devDojo.InteratorTest01" />
+  <component name="RunManager" selected="Application.MapTest01">
+    <configuration name="ClasseTesteHelbe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.collections.devDojo.dominio.ClasseTesteHelbe" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.collections.devDojo.*" />
+          <option name="PATTERN" value="intermediario.collections.devDojo.dominio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListArrayConversaoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.collections.devDojo.ListArrayConversaoTest01" />
+    <configuration name="MapTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.collections.devDojo.MapTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -161,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapTest01" />
         <item itemvalue="Application.NavigableSetTest02" />
+        <item itemvalue="Application.ClasseTesteHelbe" />
         <item itemvalue="Application.NavigableSetTest01" />
         <item itemvalue="Application.SetTest01" />
-        <item itemvalue="Application.InteratorTest01" />
-        <item itemvalue="Application.ListArrayConversaoTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +253,8 @@
       <workItem from="1706468201554" duration="3794000" />
       <workItem from="1706581209670" duration="1234000" />
       <workItem from="1706727778065" duration="11570000" />
-      <workItem from="1707066473183" duration="7977000" />
+      <workItem from="1707066473183" duration="9477000" />
+      <workItem from="1707949283003" duration="3287000" />
     </task>
     <servers />
   </component>
