@@ -1,6 +1,5 @@
 package intermediario.collections.devDojo;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
