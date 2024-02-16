@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/collections/devDojo/NavigableMapTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/generics/WildcardTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/generics/WildcardTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/devDojo/ListTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/devDojo/ListTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/devDojo/NavigableMapTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/collections/devDojo/NavigableMapTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/collections/devDojo/ListTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/collections/devDojo/ListTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +63,7 @@
     "Application.SerializacaoTest01.executor": "Run",
     "Application.Serializador.executor": "Run",
     "Application.SetTest01.executor": "Run",
+    "Application.WildcardTest01.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -98,13 +103,13 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NavigableMapTest01">
-    <configuration name="ClasseTesteHelbe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.collections.devDojo.dominio.ClasseTesteHelbe" />
+  <component name="RunManager" selected="Application.WildcardTest01">
+    <configuration name="ListTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.collections.devDojo.ListTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.collections.devDojo.dominio.*" />
+          <option name="PATTERN" value="intermediario.collections.devDojo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NavigableSetTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.collections.devDojo.NavigableSetTest02" />
+    <configuration name="WildcardTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.generics.WildcardTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.collections.devDojo.*" />
+          <option name="PATTERN" value="intermediario.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NavigableMapTest01" />
+        <item itemvalue="Application.WildcardTest01" />
+        <item itemvalue="Application.ListTest01" />
         <item itemvalue="Application.MapTest02" />
+        <item itemvalue="Application.NavigableMapTest01" />
         <item itemvalue="Application.MapTest01" />
-        <item itemvalue="Application.NavigableSetTest02" />
-        <item itemvalue="Application.ClasseTesteHelbe" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +259,9 @@
       <workItem from="1706581209670" duration="1234000" />
       <workItem from="1706727778065" duration="11570000" />
       <workItem from="1707066473183" duration="9477000" />
-      <workItem from="1707949283003" duration="6669000" />
+      <workItem from="1707949283003" duration="7510000" />
+      <workItem from="1708002955393" duration="5241000" />
+      <workItem from="1708116300578" duration="2238000" />
     </task>
     <servers />
   </component>
