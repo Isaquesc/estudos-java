@@ -13,11 +13,12 @@ public class GenericaTest01 {
         List<Carro> listCarros = new ArrayList<>(List.of(new Carro("BMW"), new Carro("HONDA FIT")));
         List<Barco> listBarcos = new ArrayList<>(List.of(new Barco("Barco GM"), new Barco("Barco FZ")));
 
-        VeiculoService<Barco> service = new VeiculoService(listBarcos);
+        VeiculoService<Barco> serviceBarco = new VeiculoService(listBarcos);
 
-        Barco barco = service.buscarVeiculoDisponivel();
+        Barco barco = serviceBarco.buscarVeiculoDisponivel();
         System.out.println("Usando o veiculo por um mês...");
-        service.devolucaoVeiculoAlugado(barco);
+        serviceBarco.devolucaoVeiculoAlugado(barco);
+
 
     }
 }
