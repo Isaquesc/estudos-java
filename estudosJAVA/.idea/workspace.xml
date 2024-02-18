@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/generics/MetodoGenericoTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/classeAnonima/ClasseAnonymous.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/generics/GenericaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/generics/GenericaTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/generics/MetodoGenericoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/generics/MetodoGenericoTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/generics/dominio/Barco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/generics/dominio/Barco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ClasseAnonymous.executor": "Run",
     "Application.ClasseTesteHelbe.executor": "Run",
     "Application.Desserializador.executor": "Run",
     "Application.EqualsTest01.executor": "Debug",
@@ -103,13 +105,13 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MetodoGenericoTest01">
-    <configuration name="GenericaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.generics.GenericaTest01" />
+  <component name="RunManager" selected="Application.ClasseAnonymous">
+    <configuration name="ClasseAnonymous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.classeAnonima.ClasseAnonymous" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.generics.*" />
+          <option name="PATTERN" value="intermediario.classeAnonima.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.collections.devDojo.ListTest01" />
+    <configuration name="GenericaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.generics.GenericaTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.collections.devDojo.*" />
+          <option name="PATTERN" value="intermediario.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClasseAnonymous" />
         <item itemvalue="Application.MetodoGenericoTest01" />
         <item itemvalue="Application.GenericaTest01" />
         <item itemvalue="Application.WildcardTest02" />
         <item itemvalue="Application.WildcardTest01" />
-        <item itemvalue="Application.ListTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +264,7 @@
       <workItem from="1707949283003" duration="7510000" />
       <workItem from="1708002955393" duration="5241000" />
       <workItem from="1708116300578" duration="4667000" />
-      <workItem from="1708274113109" duration="5424000" />
+      <workItem from="1708274113109" duration="7150000" />
     </task>
     <servers />
   </component>
