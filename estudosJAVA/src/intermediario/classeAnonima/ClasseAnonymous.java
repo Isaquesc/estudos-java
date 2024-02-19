@@ -19,7 +19,7 @@ public class ClasseAnonymous {
 
         List<Barco> barcos = new ArrayList<>(List.of(new Barco("Lancha"), new Barco("Canoa")));
 
-        //ANTIGA SINTAX
+//        ==== ANTIGA SINTAX
         barcos.sort(new Comparator<Barco>() {
             @Override
             public int compare(Barco o1, Barco o2) {
@@ -27,7 +27,7 @@ public class ClasseAnonymous {
             }
         });
 
-        //NOVA SINTAX
+//        ==== NOVA SINTAX
         barcos.sort(((o1, o2) -> o1.getNome().compareTo(o2.getNome())));
 
         System.out.println(barcos);
