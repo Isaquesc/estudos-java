@@ -3,7 +3,7 @@ package intermediario.lambdas;
 import java.util.List;
 import java.util.function.Consumer;
 
-public class LambdaTest01 {
+public class LambdaConsumerTest01 {
 
     public static void main(String[] args) {
         List<String> strings = List.of("William", "Suane", "Luffy", "Zoro");
