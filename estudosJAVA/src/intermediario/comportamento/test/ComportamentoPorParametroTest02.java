@@ -36,14 +36,14 @@ public class ComportamentoPorParametroTest02 {
     }
 
     private static <T> List<T> filterGenerico(List<T> list, Predicate<T> predicate) {
-        List<T> filteredCar = new ArrayList<>();
+        List<T> filtrado = new ArrayList<>();
         for (T e : list) {
             if (predicate.test(e)){
-                filteredCar.add(e);
+                filtrado.add(e);
             }
         }
 
-        return filteredCar;
+        return filtrado;
     }
 
 }
