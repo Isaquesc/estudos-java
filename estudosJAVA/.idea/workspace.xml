@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/lambdas/LambdaFunctionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/lambdas/MethodReferencesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/lambdas/MethodReferencesTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/lambdas/MethodReferencesTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/lambdas/dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/lambdas/service/AnimeComparators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/lambdas/LambdaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/lambdas/LambdaConsumerTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/lambdas/LambdaFunctionTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/lambdas/LambdaFunctionTest01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +65,9 @@
     "Application.MangaSortTest01.executor": "Run",
     "Application.MapTest01.executor": "Run",
     "Application.MapTest02.executor": "Run",
+    "Application.MethodReferencesTest01.executor": "Run",
+    "Application.MethodReferencesTest02.executor": "Run",
+    "Application.MethodReferencesTest03.executor": "Run",
     "Application.MetodoGenericoTest01.executor": "Run",
     "Application.NavigableMapTest01.executor": "Run",
     "Application.NavigableSetTest01.executor": "Run",
@@ -111,46 +118,7 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaFunctionTest01">
-    <configuration name="ClasseAnonymous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.classeAnonima.ClasseAnonymous" />
-      <module name="estudosJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermediario.classeAnonima.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ComportamentoPorParametroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.comportamento.test.ComportamentoPorParametroTest01" />
-      <module name="estudosJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermediario.comportamento.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ComportamentoPorParametroTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.comportamento.test.ComportamentoPorParametroTest02" />
-      <module name="estudosJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermediario.comportamento.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MethodReferencesTest03">
     <configuration name="LambdaConsumerTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediario.lambdas.LambdaConsumerTest01" />
       <module name="estudosJAVA" />
@@ -177,13 +145,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MethodReferencesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.lambdas.MethodReferencesTest01" />
+      <module name="estudosJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediario.lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReferencesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.lambdas.MethodReferencesTest02" />
+      <module name="estudosJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediario.lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReferencesTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.lambdas.MethodReferencesTest03" />
+      <module name="estudosJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediario.lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodReferencesTest03" />
+        <item itemvalue="Application.MethodReferencesTest02" />
+        <item itemvalue="Application.MethodReferencesTest01" />
         <item itemvalue="Application.LambdaFunctionTest01" />
         <item itemvalue="Application.LambdaConsumerTest01" />
-        <item itemvalue="Application.ComportamentoPorParametroTest02" />
-        <item itemvalue="Application.ComportamentoPorParametroTest01" />
-        <item itemvalue="Application.ClasseAnonymous" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +278,7 @@
       <workItem from="1708002955393" duration="5241000" />
       <workItem from="1708116300578" duration="4667000" />
       <workItem from="1708274113109" duration="17154000" />
-      <workItem from="1708441781230" duration="3648000" />
+      <workItem from="1708441781230" duration="8899000" />
     </task>
     <servers />
   </component>
