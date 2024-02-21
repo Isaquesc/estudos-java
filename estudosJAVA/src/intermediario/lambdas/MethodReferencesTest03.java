@@ -18,12 +18,9 @@ public class MethodReferencesTest03 {
         Integer i = numStringToInterger.apply("10");
         System.out.println(i);
 
-
         BiPredicate<List<String>, String> checkName = List::contains;
         boolean test = checkName.test(list, "Isaque");
         System.out.println(test);
-
-
 
     }
 }
