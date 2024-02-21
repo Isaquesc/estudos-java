@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/optional/OptionalTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/optional/OptionalTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/optional/dominio/Manga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/optional/repositorio/MangaRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/optional/OptionalTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/optional/OptionalTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/optional/OptionalTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/optional/OptionalTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +73,7 @@
     "Application.NavigableSetTest01.executor": "Run",
     "Application.NavigableSetTest02.executor": "Run",
     "Application.OptionalTest01.executor": "Run",
+    "Application.OptionalTest02.executor": "Run",
     "Application.SerializacaoTest01.executor": "Run",
     "Application.Serializador.executor": "Run",
     "Application.SetTest01.executor": "Run",
@@ -115,20 +120,7 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OptionalTest01">
-    <configuration name="MethodReferencesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.lambdas.MethodReferencesTest01" />
-      <module name="estudosJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermediario.lambdas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OptionalTest02">
     <configuration name="MethodReferencesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediario.lambdas.MethodReferencesTest02" />
       <module name="estudosJAVA" />
@@ -181,13 +173,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OptionalTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.optional.OptionalTest02" />
+      <module name="estudosJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediario.optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptionalTest02" />
         <item itemvalue="Application.OptionalTest01" />
         <item itemvalue="Application.MethodReferencesTest04" />
         <item itemvalue="Application.MethodReferencesTest03" />
         <item itemvalue="Application.MethodReferencesTest02" />
-        <item itemvalue="Application.MethodReferencesTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +280,7 @@
       <workItem from="1708002955393" duration="5241000" />
       <workItem from="1708116300578" duration="4667000" />
       <workItem from="1708274113109" duration="17154000" />
-      <workItem from="1708441781230" duration="10973000" />
+      <workItem from="1708441781230" duration="15753000" />
     </task>
     <servers />
   </component>

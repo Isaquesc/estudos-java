@@ -14,16 +14,16 @@ public class OptionalTest01 {
 //        System.out.println(optional2);
 //        System.out.println(optional3);
 
-        String resultName = Optional.ofNullable(findName("Elias")).orElse("name not found");
+        String resultName = findName("Elias").orElse("name not found");
         System.out.println(resultName);
     }
 
-    private static String findName(String name){
+    private static Optional<String> findName(String name){
         List<String> list = List.of("Isaque", "Silva");
         int i = list.indexOf(name);
         if (i != -1 )
-            return list.get(i);
+            return Optional.of(list.get(i));
 
-        return null;
+        return Optional.empty();
     }
 }
