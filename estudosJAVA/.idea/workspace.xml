@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/optional/OptionalTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediario/optional/dominio/Manga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediario/optional/repositorio/MangaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/stream/dominio/LightNovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/optional/OptionalTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/optional/OptionalTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/optional/OptionalTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/optional/OptionalTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/optional/OptionalTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/optional/OptionalTest02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +76,7 @@
     "Application.SerializacaoTest01.executor": "Run",
     "Application.Serializador.executor": "Run",
     "Application.SetTest01.executor": "Run",
+    "Application.StreamTest01.executor": "Run",
     "Application.WildcardTest01.executor": "Debug",
     "Application.WildcardTest02.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -120,33 +120,7 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OptionalTest02">
-    <configuration name="MethodReferencesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.lambdas.MethodReferencesTest02" />
-      <module name="estudosJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermediario.lambdas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodReferencesTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.lambdas.MethodReferencesTest03" />
-      <module name="estudosJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermediario.lambdas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StreamTest02">
     <configuration name="MethodReferencesTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediario.lambdas.MethodReferencesTest04" />
       <module name="estudosJAVA" />
@@ -186,13 +160,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.stream.test.StreamTest01" />
+      <module name="estudosJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediario.stream.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.stream.test.StreamTest02" />
+      <module name="estudosJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediario.stream.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamTest02" />
+        <item itemvalue="Application.StreamTest01" />
         <item itemvalue="Application.OptionalTest02" />
         <item itemvalue="Application.OptionalTest01" />
         <item itemvalue="Application.MethodReferencesTest04" />
-        <item itemvalue="Application.MethodReferencesTest03" />
-        <item itemvalue="Application.MethodReferencesTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +280,7 @@
       <workItem from="1708002955393" duration="5241000" />
       <workItem from="1708116300578" duration="4667000" />
       <workItem from="1708274113109" duration="17154000" />
-      <workItem from="1708441781230" duration="15753000" />
+      <workItem from="1708441781230" duration="18560000" />
     </task>
     <servers />
   </component>
