@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste.txt" beforeDir="false" afterPath="$PROJECT_DIR$/teste.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/.jdks/corretto-19.0.2/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.jdks/corretto-19.0.2/lib/src.zip!/java.base/java/lang/Runnable.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/teste.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
@@ -89,6 +90,7 @@
     "Application.StreamTest06.executor": "Run",
     "Application.StreamTest07.executor": "Run",
     "Application.StreamTest08.executor": "Run",
+    "Application.StreamTest09.executor": "Run",
     "Application.WildcardTest01.executor": "Debug",
     "Application.WildcardTest02.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -133,20 +135,7 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamTest08">
-    <configuration name="PesquisaBinariaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoritmos.PesquisaBinariaTest01" />
-      <module name="estudosJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algoritmos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StreamTest09">
     <configuration name="StreamTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediario.stream.test.StreamTest05" />
       <module name="estudosJAVA" />
@@ -199,13 +188,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamTest09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.stream.test.StreamTest09" />
+      <module name="estudosJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediario.stream.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamTest09" />
         <item itemvalue="Application.StreamTest08" />
         <item itemvalue="Application.StreamTest07" />
         <item itemvalue="Application.StreamTest06" />
         <item itemvalue="Application.StreamTest05" />
-        <item itemvalue="Application.PesquisaBinariaTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +302,7 @@
       <workItem from="1708745131069" duration="5223000" />
       <workItem from="1708787803775" duration="342000" />
       <workItem from="1709158073058" duration="4716000" />
-      <workItem from="1709179405269" duration="2911000" />
+      <workItem from="1709179405269" duration="4240000" />
     </task>
     <servers />
   </component>
