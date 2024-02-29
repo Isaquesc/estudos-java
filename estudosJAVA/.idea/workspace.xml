@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algoritmos/PesquisaBinariaTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIOdevDojo/PathMatcherTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/iniciante/javaIOdevDojo/PathMatcherTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/dominio/LightNovelListBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/dominio/LightNovelListBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/test/StreamTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/test/StreamTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/test/StreamTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/test/StreamTest03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/test/StreamTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/test/StreamTest04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/test/StreamTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/test/StreamTest05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/stream/dominio/LightNovelListBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/stream/dominio/LightNovelListBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +88,7 @@
     "Application.StreamTest05.executor": "Run",
     "Application.StreamTest06.executor": "Run",
     "Application.StreamTest07.executor": "Run",
+    "Application.StreamTest08.executor": "Run",
     "Application.WildcardTest01.executor": "Debug",
     "Application.WildcardTest02.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -144,26 +133,13 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamTest07">
+  <component name="RunManager" selected="Application.StreamTest08">
     <configuration name="PesquisaBinariaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algoritmos.PesquisaBinariaTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algoritmos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.stream.test.StreamTest04" />
-      <module name="estudosJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermediario.stream.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,13 +186,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamTest08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.stream.test.StreamTest08" />
+      <module name="estudosJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediario.stream.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamTest08" />
         <item itemvalue="Application.StreamTest07" />
         <item itemvalue="Application.StreamTest06" />
         <item itemvalue="Application.StreamTest05" />
         <item itemvalue="Application.PesquisaBinariaTest01" />
-        <item itemvalue="Application.StreamTest04" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +300,7 @@
       <workItem from="1708745131069" duration="5223000" />
       <workItem from="1708787803775" duration="342000" />
       <workItem from="1709158073058" duration="4716000" />
-      <workItem from="1709179405269" duration="2175000" />
+      <workItem from="1709179405269" duration="2911000" />
     </task>
     <servers />
   </component>

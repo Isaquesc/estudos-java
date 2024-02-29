@@ -16,14 +16,14 @@ public class StreamTest07 {
                 .reduce(0, Integer::sum);
         System.out.println("Soma: " + reduceSoma);
 
+//        === MULTIPLICACAO
         Integer reduceMulti = list.stream()
-                .reduce(1, (a,b) -> a * b);
+                .reduce(1, (a, b) -> a * b);
         System.out.println("Multiplicacao: " + reduceMulti);
 
+//        === PEGANDO O MAIOR VALOR
         Integer reduceMax = list.stream()
                 .reduce(0, Integer::max);
         System.out.println("Maximo: " + reduceMax);
-
-
     }
 }
