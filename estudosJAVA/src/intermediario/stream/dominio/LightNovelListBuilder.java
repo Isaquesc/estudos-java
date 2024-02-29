@@ -5,7 +5,7 @@ import java.util.List;
 
 public class LightNovelListBuilder {
 
-    public static List<LightNovel> lightNovelList() {
+    public static List<LightNovel> createrlightNovelList() {
         List<LightNovel> lightNovels = new ArrayList<>(List.of(
                 new LightNovel("Tensei Shittara", 8.99),
                 new LightNovel("Overlord", 3.99),

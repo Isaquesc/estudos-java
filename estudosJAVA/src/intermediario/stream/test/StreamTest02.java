@@ -10,7 +10,7 @@ public class StreamTest02 {
 
     public static void main(String[] args) {
 
-        List<LightNovel> lightNovels = LightNovelListBuilder.lightNovelList();
+        List<LightNovel> lightNovels = LightNovelListBuilder.createrlightNovelList();
 
 //        ==== 1. Encomende LightNovel por título
 //        ==== 2. Recupere os 3 primeiros títulos de light novels com preço inferior a 4
