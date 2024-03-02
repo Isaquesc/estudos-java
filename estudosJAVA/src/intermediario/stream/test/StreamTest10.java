@@ -9,7 +9,7 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class StreamTest10 {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args)  {
 
         Stream.iterate(1, n -> n + 2)
                 .limit(5)
@@ -25,6 +25,5 @@ public class StreamTest10 {
         Stream.generate(() -> ThreadLocalRandom.current().nextInt(1, 500))
                 .limit(10)
                 .forEach(n -> System.out.print(n + " "));
-
     }
 }
