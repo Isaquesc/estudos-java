@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/stream/dominio/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/stream/dominio/Promotion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/test/StreamTest11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/test/StreamTest11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/stream/dominio/LightNovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/stream/dominio/LightNovel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/stream/dominio/LightNovelListBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/stream/dominio/LightNovelListBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -314,7 +312,7 @@
       <workItem from="1709436614537" duration="54000" />
       <workItem from="1709436688472" duration="3000" />
       <workItem from="1709436701721" duration="616000" />
-      <workItem from="1709479644335" duration="1604000" />
+      <workItem from="1709479644335" duration="3931000" />
     </task>
     <servers />
   </component>
