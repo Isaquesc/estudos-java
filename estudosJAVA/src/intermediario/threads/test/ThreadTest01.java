@@ -28,20 +28,18 @@ class ThreadExampleRunnable implements Runnable {
 
     @Override
     public void run() {
-        System.out.print(Thread.currentThread().getName());
+        System.out.print(Thread.currentThread().getName() + "(INICIO) ");
         for (int i = 0; i < 10; i++) {
             System.out.print(c);
 
-            try {
-                Thread.sleep(2000);
-            } catch (InterruptedException e) {
-                throw new RuntimeException(e);
-            }
         }
+
+        System.out.print(Thread.currentThread().getName() + "(FIM) ");
     }
 }
+
 public class ThreadTest01 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
 //        ThreadExemple t1 = new ThreadExemple('A');
 //        ThreadExemple t2 = new ThreadExemple('B');
@@ -53,12 +51,15 @@ public class ThreadTest01 {
         Thread t3 = new Thread(new ThreadExampleRunnable('C'), " T3 ");
         Thread t4 = new Thread(new ThreadExampleRunnable('D'), " T4 ");
 
-        t4.setPriority(Thread.MAX_PRIORITY);
+        t1.setPriority(Thread.MAX_PRIORITY);
         t1.start();
+        t1.join();
         t2.start();
-        t3.start();
-        t4.start();
+        t2.join();
+//        t3.start();
+//        t4.start();
 
+        System.out.println();
         System.out.println("############################ Main");
 
     }
