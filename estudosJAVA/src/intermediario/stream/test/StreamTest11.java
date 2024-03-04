@@ -87,16 +87,25 @@ public class StreamTest11 {
                 .collect(Collectors.groupingBy(LightNovel::getCATEGORIAS, Collectors.maxBy(Comparator.comparing(LightNovel::getPrice))));
         System.out.println(collect5);
 
-        //          === GROUPBY
+//          === GROUPBY
         Map<Category, LightNovel> collect6 = lightNovels.stream()
                 .collect(Collectors.groupingBy(LightNovel::getCATEGORIAS, Collectors.collectingAndThen(Collectors.maxBy(Comparator.comparing(LightNovel::getPrice)), Optional::get)));
         System.out.println(collect6);
 
-        //          === GROUPBY
+//          === GROUPBY
         Map<Category, LightNovel> collect7 = lightNovels.stream()
                 .collect(Collectors.toMap(LightNovel::getCATEGORIAS, Function.identity(), BinaryOperator.maxBy(Comparator.comparing(LightNovel::getPrice))));
         System.out.println(collect7);
 
+//         === GROUPBY
+        Map<Category, DoubleSummaryStatistics> collect8 = lightNovels.stream()
+                .collect(Collectors.groupingBy(LightNovel::getCATEGORIAS, Collectors.summarizingDouble(LightNovel::getPrice)));
+        System.out.println(collect8);
+
+//         === GROUPBY
+        Map<Category, Set<Promotion>> collect1 = lightNovels.stream()
+                .collect(Collectors.groupingBy(LightNovel::getCATEGORIAS, Collectors.mapping(c -> c.getPrice() < 6 ? UNDER_PROMOTION : NORMAL_PRICE, Collectors.toSet())));
+        System.out.println(collect1);
 
     }
 }
