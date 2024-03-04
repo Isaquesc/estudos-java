@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/threads/test/ThreadTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/test/StreamTest11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/stream/test/StreamTest11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/stream/test/StreamTest11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +18,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -96,6 +94,12 @@
     "Application.StreamTest10.executor": "Run",
     "Application.StreamTest11.executor": "Run",
     "Application.StreamTest12.executor": "Run",
+    "Application.ThreadTest01 (1).executor": "Run",
+    "Application.ThreadTest01 (2).executor": "Run",
+    "Application.ThreadTest01 (3).executor": "Run",
+    "Application.ThreadTest01 (4).executor": "Run",
+    "Application.ThreadTest01 (5).executor": "Run",
+    "Application.ThreadTest01.executor": "Run",
     "Application.WildcardTest01.executor": "Debug",
     "Application.WildcardTest02.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -140,13 +144,13 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamTest12">
-    <configuration name="StreamTest08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.stream.test.StreamTest08" />
+  <component name="RunManager" selected="Application.ThreadTest01 (3)">
+    <configuration name="ThreadTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.stream.test.*" />
+          <option name="PATTERN" value="intermediario.threads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.stream.test.StreamTest09" />
+    <configuration name="ThreadTest01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.stream.test.*" />
+          <option name="PATTERN" value="intermediario.threads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.stream.test.StreamTest10" />
+    <configuration name="ThreadTest01 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.stream.test.*" />
+          <option name="PATTERN" value="intermediario.threads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.stream.test.StreamTest11" />
+    <configuration name="ThreadTest01 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.stream.test.*" />
+          <option name="PATTERN" value="intermediario.threads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.stream.test.StreamTest12" />
+    <configuration name="ThreadTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.stream.test.*" />
+          <option name="PATTERN" value="intermediario.threads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamTest12" />
-        <item itemvalue="Application.StreamTest11" />
-        <item itemvalue="Application.StreamTest10" />
-        <item itemvalue="Application.StreamTest09" />
-        <item itemvalue="Application.StreamTest08" />
+        <item itemvalue="Application.ThreadTest01 (3)" />
+        <item itemvalue="Application.ThreadTest01" />
+        <item itemvalue="Application.ThreadTest01 (2)" />
+        <item itemvalue="Application.ThreadTest01 (1)" />
+        <item itemvalue="Application.ThreadTest01 (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +318,7 @@
       <workItem from="1709436688472" duration="3000" />
       <workItem from="1709436701721" duration="616000" />
       <workItem from="1709479644335" duration="12779000" />
-      <workItem from="1709564108385" duration="2165000" />
+      <workItem from="1709564108385" duration="5183000" />
     </task>
     <servers />
   </component>
