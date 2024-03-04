@@ -9,10 +9,13 @@ import java.sql.SQLOutput;
 import java.util.*;
 import java.util.concurrent.ConcurrentMap;
 import java.util.concurrent.ThreadLocalRandom;
+import java.util.function.BinaryOperator;
+import java.util.function.Function;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+import static intermediario.stream.dominio.Promotion.NORMAL_PRICE;
 import static intermediario.stream.dominio.Promotion.UNDER_PROMOTION;
 
 public class StreamTest11 {
@@ -65,14 +68,34 @@ public class StreamTest11 {
 //        === GROUPBY
         Map<Promotion, List<LightNovel>> collect2 = lightNovels.stream()
                 .collect(Collectors
-                        .groupingBy(c -> c.getPrice() < 6 ? UNDER_PROMOTION : Promotion.NORMAL_PRICE));
+                        .groupingBy(c -> c.getPrice() < 6 ? UNDER_PROMOTION : NORMAL_PRICE));
         System.out.println(collect2);
 
 //        === GROUPBY
         Map<Category, Map<Promotion, List<LightNovel>>> collect3 = lightNovels.stream()
                 .collect(Collectors.groupingBy(LightNovel::getCATEGORIAS,
-                        Collectors.groupingBy(c -> c.getPrice() < 6 ? UNDER_PROMOTION : Promotion.NORMAL_PRICE)));
+                        Collectors.groupingBy(c -> c.getPrice() < 6 ? UNDER_PROMOTION : NORMAL_PRICE)));
         System.out.println(collect3);
+
+//          === GROUPBY
+        Map<Category, Long> collect4 = lightNovels.stream()
+                .collect(Collectors.groupingBy(LightNovel::getCATEGORIAS, Collectors.counting()));
+        System.out.println(collect4);
+
+//          === GROUPBY
+        Map<Category, Optional<LightNovel>> collect5 = lightNovels.stream()
+                .collect(Collectors.groupingBy(LightNovel::getCATEGORIAS, Collectors.maxBy(Comparator.comparing(LightNovel::getPrice))));
+        System.out.println(collect5);
+
+        //          === GROUPBY
+        Map<Category, LightNovel> collect6 = lightNovels.stream()
+                .collect(Collectors.groupingBy(LightNovel::getCATEGORIAS, Collectors.collectingAndThen(Collectors.maxBy(Comparator.comparing(LightNovel::getPrice)), Optional::get)));
+        System.out.println(collect6);
+
+        //          === GROUPBY
+        Map<Category, LightNovel> collect7 = lightNovels.stream()
+                .collect(Collectors.toMap(LightNovel::getCATEGORIAS, Function.identity(), BinaryOperator.maxBy(Comparator.comparing(LightNovel::getPrice))));
+        System.out.println(collect7);
 
 
     }
