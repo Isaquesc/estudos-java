@@ -61,9 +61,9 @@ public class StreamTest11 {
                         .toList()));
 
 //        === GROUPBY
-        Map<Category, List<LightNovel>> collect = lightNovels.stream()
+        Map<Category, List<LightNovel>> collect1 = lightNovels.stream()
                 .collect(Collectors.groupingBy(LightNovel::getCATEGORIAS));
-        System.out.println(collect);
+        System.out.println(collect1);
 
 //        === GROUPBY
         Map<Promotion, List<LightNovel>> collect2 = lightNovels.stream()
@@ -103,9 +103,9 @@ public class StreamTest11 {
         System.out.println(collect8);
 
 //         === GROUPBY
-        Map<Category, Set<Promotion>> collect1 = lightNovels.stream()
+        Map<Category, Set<Promotion>> collect9 = lightNovels.stream()
                 .collect(Collectors.groupingBy(LightNovel::getCATEGORIAS, Collectors.mapping(c -> c.getPrice() < 6 ? UNDER_PROMOTION : NORMAL_PRICE, Collectors.toSet())));
-        System.out.println(collect1);
+        System.out.println(collect9);
 
     }
 }
