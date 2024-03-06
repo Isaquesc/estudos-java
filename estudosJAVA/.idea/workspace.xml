@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="" />
+    <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/intermediario/threads/test/ThreadSafeTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +95,12 @@
     "Application.StreamTest11.executor": "Run",
     "Application.StreamTest12.executor": "Run",
     "Application.ThreadAccountTest01.executor": "Run",
+    "Application.ThreadSafeTest01 (1).executor": "Run",
+    "Application.ThreadSafeTest01 (2).executor": "Run",
+    "Application.ThreadSafeTest01 (3).executor": "Run",
+    "Application.ThreadSafeTest01 (4).executor": "Run",
+    "Application.ThreadSafeTest01 (5).executor": "Run",
+    "Application.ThreadSafeTest01.executor": "Run",
     "Application.ThreadTest01 (1).executor": "Run",
     "Application.ThreadTest01 (2).executor": "Run",
     "Application.ThreadTest01 (3).executor": "Run",
@@ -142,9 +151,9 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadAccountTest01">
-    <configuration name="ThreadAccountTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadAccountTest01" />
+  <component name="RunManager" selected="Application.ThreadSafeTest01">
+    <configuration name="ThreadSafeTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadSafeTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +165,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadTest01" />
+    <configuration name="ThreadSafeTest01 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadSafeTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -169,8 +178,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadTest01" />
+    <configuration name="ThreadSafeTest01 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadSafeTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -182,8 +191,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest01 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadTest01" />
+    <configuration name="ThreadSafeTest01 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadSafeTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -195,8 +204,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest01 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadTest01" />
+    <configuration name="ThreadSafeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadSafeTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -210,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadAccountTest01" />
-        <item itemvalue="Application.ThreadTest01 (4)" />
-        <item itemvalue="Application.ThreadTest01 (3)" />
-        <item itemvalue="Application.ThreadTest01 (2)" />
-        <item itemvalue="Application.ThreadTest01 (1)" />
+        <item itemvalue="Application.ThreadSafeTest01" />
+        <item itemvalue="Application.ThreadSafeTest01 (1)" />
+        <item itemvalue="Application.ThreadSafeTest01 (5)" />
+        <item itemvalue="Application.ThreadSafeTest01 (4)" />
+        <item itemvalue="Application.ThreadSafeTest01 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +326,7 @@
       <workItem from="1709436701721" duration="616000" />
       <workItem from="1709479644335" duration="12779000" />
       <workItem from="1709564108385" duration="10149000" />
-      <workItem from="1709746905459" duration="3118000" />
+      <workItem from="1709746905459" duration="5711000" />
     </task>
     <servers />
   </component>
