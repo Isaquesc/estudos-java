@@ -33,7 +33,8 @@ public class ThreadAccountTest01 implements Runnable{
                 account.withDrawl(amount);
                 System.out.println(getNameThread() + " - saque realizado com sucesso - SALDO ATUAL: " + account.getBalance());
             } else {
-                System.out.println("Desculpe " + getNameThread() + " Saldo insuficiente: " + account.getBalance());
+                System.out.println("Desculpa" + getNameThread() + " Saldo insuficiente: " + account.getBalance());
+
             }
         }
     }
