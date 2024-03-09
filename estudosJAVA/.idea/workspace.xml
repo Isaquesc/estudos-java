@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/concorrencia/BlockingQueueTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/concorrencia/LinkedTransferQueueTest01.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/concorrencia/LinkedTransferQueueTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/concorrencia/LinkedTransferQueueTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,8 @@
     "Application.AtomicIntegerTest01 (4).executor": "Run",
     "Application.AtomicIntegerTest01 (5).executor": "Run",
     "Application.AtomicIntegerTest01.executor": "Run",
+    "Application.BlockingQueueTest01 (1).executor": "Run",
+    "Application.BlockingQueueTest01 (2).executor": "Run",
     "Application.BlockingQueueTest01.executor": "Run",
     "Application.ClasseAnonymous.executor": "Run",
     "Application.ClasseTesteHelbe.executor": "Run",
@@ -72,6 +75,7 @@
     "Application.InteratorTest01.executor": "Run",
     "Application.LambdaFunctionTest01.executor": "Run",
     "Application.LambdaTest01.executor": "Run",
+    "Application.LinkedTransferQueueTest01.executor": "Run",
     "Application.ListArrayConversaoTest01.executor": "Run",
     "Application.ListSortTeste01.executor": "Run",
     "Application.ListTest01.executor": "Run",
@@ -166,7 +170,7 @@
       <recent name="intermediario.excecoes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BlockingQueueTest01">
+  <component name="RunManager" selected="Application.LinkedTransferQueueTest01">
     <configuration name="BlockingQueueTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediario.concorrencia.BlockingQueueTest01" />
       <module name="estudosJAVA" />
@@ -219,8 +223,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReentrantReadWriteLockTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.concorrencia.ReentrantReadWriteLockTest01" />
+    <configuration name="LinkedTransferQueueTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.concorrencia.LinkedTransferQueueTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
@@ -234,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedTransferQueueTest01" />
         <item itemvalue="Application.BlockingQueueTest01" />
         <item itemvalue="Application.BlockingQueueTest01 (2)" />
         <item itemvalue="Application.BlockingQueueTest01 (1)" />
         <item itemvalue="Application.CopyOnWriteTest01" />
-        <item itemvalue="Application.ReentrantReadWriteLockTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +349,7 @@
       <workItem from="1709940653348" duration="469000" />
       <workItem from="1709941337892" duration="3776000" />
       <workItem from="1709955228983" duration="6931000" />
-      <workItem from="1709996124560" duration="10308000" />
+      <workItem from="1709996124560" duration="12243000" />
     </task>
     <servers />
   </component>
