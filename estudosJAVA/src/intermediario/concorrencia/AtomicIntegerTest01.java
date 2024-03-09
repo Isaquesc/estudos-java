@@ -1,14 +1,23 @@
 package intermediario.concorrencia;
 
+import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
 
 class Contador {
     private int contador;
-    private AtomicInteger atomicInteger = new AtomicInteger();
+    private final AtomicInteger atomicInteger = new AtomicInteger();
+    private Lock lock = new ReentrantLock(true);
 
     public void adicionar() {
-        this.contador++;
-        this.atomicInteger.incrementAndGet();
+        try {
+            lock.lock();
+            this.contador++;
+            this.atomicInteger.incrementAndGet();
+        } finally {
+            lock.unlock();
+        }
     }
 
     public int getContador() {
@@ -40,5 +49,7 @@ public class AtomicIntegerTest01 {
 
         System.out.println(contador.getContador());
         System.out.println(contador.getAtomicInteger());
+
+
     }
 }
