@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/threads/dominio/Usuarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediario/threads/service/EmailDeliveryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediario/threads/test/EmailDeliveryTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/concorrencia/AtomicIntegerTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/threads/test/ThreadAccountTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/estudosJAVA/intermediario/threads/test/ThreadAccountTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediario/threads/test/ThreadAccountTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/threads/test/ThreadAccountTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +53,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AtomicIntegerTest01 (1).executor": "Run",
+    "Application.AtomicIntegerTest01 (2).executor": "Run",
+    "Application.AtomicIntegerTest01 (3).executor": "Run",
+    "Application.AtomicIntegerTest01 (4).executor": "Run",
+    "Application.AtomicIntegerTest01 (5).executor": "Run",
+    "Application.AtomicIntegerTest01.executor": "Run",
     "Application.ClasseAnonymous.executor": "Run",
     "Application.ClasseTesteHelbe.executor": "Run",
     "Application.ComportamentoPorParametroTest01.executor": "Run",
@@ -157,13 +159,13 @@
       <recent name="intermediario.regex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmailDeliveryTest01">
-    <configuration name="EmailDeliveryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.EmailDeliveryTest01" />
+  <component name="RunManager" selected="Application.AtomicIntegerTest01">
+    <configuration name="AtomicIntegerTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.concorrencia.AtomicIntegerTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.threads.test.*" />
+          <option name="PATTERN" value="intermediario.concorrencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadAccountTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadAccountTest01" />
+    <configuration name="AtomicIntegerTest01 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.concorrencia.AtomicIntegerTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.threads.test.*" />
+          <option name="PATTERN" value="intermediario.concorrencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadSafeTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadSafeTest01" />
+    <configuration name="AtomicIntegerTest01 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.concorrencia.AtomicIntegerTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.threads.test.*" />
+          <option name="PATTERN" value="intermediario.concorrencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadSafeTest01 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadSafeTest01" />
+    <configuration name="AtomicIntegerTest01 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.concorrencia.AtomicIntegerTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.threads.test.*" />
+          <option name="PATTERN" value="intermediario.concorrencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadSafeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.threads.test.ThreadSafeTest01" />
+    <configuration name="AtomicIntegerTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.concorrencia.AtomicIntegerTest01" />
       <module name="estudosJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediario.threads.test.*" />
+          <option name="PATTERN" value="intermediario.concorrencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmailDeliveryTest01" />
-        <item itemvalue="Application.ThreadAccountTest01" />
-        <item itemvalue="Application.ThreadSafeTest01" />
-        <item itemvalue="Application.ThreadSafeTest01 (1)" />
-        <item itemvalue="Application.ThreadSafeTest01 (5)" />
+        <item itemvalue="Application.AtomicIntegerTest01" />
+        <item itemvalue="Application.AtomicIntegerTest01 (1)" />
+        <item itemvalue="Application.AtomicIntegerTest01 (5)" />
+        <item itemvalue="Application.AtomicIntegerTest01 (4)" />
+        <item itemvalue="Application.AtomicIntegerTest01 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +337,7 @@
       <workItem from="1709746905459" duration="9703000" />
       <workItem from="1709940653348" duration="469000" />
       <workItem from="1709941337892" duration="3776000" />
-      <workItem from="1709955228983" duration="3540000" />
+      <workItem from="1709955228983" duration="4452000" />
     </task>
     <servers />
   </component>
