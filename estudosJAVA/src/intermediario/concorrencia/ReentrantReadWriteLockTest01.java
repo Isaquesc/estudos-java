@@ -1,9 +1,8 @@
-package intermediario.threads;
+package intermediario.concorrencia;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
-import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 class MapReadWrite {
