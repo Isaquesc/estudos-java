@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adfcb4aa-6281-4c18-83e2-25c79fd9ded3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediario/padroesdeprojeto/dominio/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/padroesdeprojeto/dominio/Dolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/padroesdeprojeto/dominio/MoedaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/padroesdeprojeto/dominio/Pais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/padroesdeprojeto/dominio/Real.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediario/padroesdeprojeto/dominio/interfaces/Moeda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediario/padroesdeprojeto/test/BuilderPatteernTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediario/padroesdeprojeto/test/BuilderPatteernTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +22,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Interface" />
-        <option value="Enum" />
         <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -161,28 +167,18 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\isaqu\Documents\Projetinhos\estudos\estudosJAVA\src\intermediario\JOptionPane" />
     </key>
+    <key name="CreateBuilderDialog.RecentsKey">
+      <recent name="intermediario.padroesdeprojeto.dominio" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="intermediario.padroesdeprojeto.dominio" />
       <recent name="intermediario.concorrencia" />
       <recent name="intermediario.stream.test" />
       <recent name="intermediario.comportamento.test" />
       <recent name="iniciante.javaIOdevDojo" />
-      <recent name="intermediario.excecoes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScheduledThreadPoolTest01">
-    <configuration name="BlockingQueueTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediario.concorrencia.BlockingQueueTest01" />
-      <module name="estudosJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermediario.concorrencia.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MoedaFactoryTest01">
     <configuration name="BlockingQueueTest01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediario.concorrencia.BlockingQueueTest01" />
       <module name="estudosJAVA" />
@@ -222,6 +218,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MoedaFactoryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediario.padroesdeprojeto.test.MoedaFactoryTest01" />
+      <module name="estudosJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediario.padroesdeprojeto.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ScheduledThreadPoolTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediario.concorrencia.ScheduledThreadPoolTest01" />
       <module name="estudosJAVA" />
@@ -237,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoedaFactoryTest01" />
         <item itemvalue="Application.ScheduledThreadPoolTest01" />
         <item itemvalue="Application.LinkedTransferQueueTest01" />
         <item itemvalue="Application.BlockingQueueTest01" />
         <item itemvalue="Application.BlockingQueueTest01 (2)" />
-        <item itemvalue="Application.BlockingQueueTest01 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +359,7 @@
       <workItem from="1709955228983" duration="6931000" />
       <workItem from="1709996124560" duration="15709000" />
       <workItem from="1710251056434" duration="3962000" />
-      <workItem from="1710281148606" duration="937000" />
+      <workItem from="1710281148606" duration="1686000" />
     </task>
     <servers />
   </component>
